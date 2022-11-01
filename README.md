@@ -25,13 +25,13 @@ The code of 3D-CNN-BERT-COVID19 is released under the MIT License. There is no l
 
 - If you think this work is useful for you, please cite 
  
-    @InProceedings{Tan_2021_ICCV,
-    author    = {Tan, Weijun and Liu, Jingfeng},
-    title     = {A 3D CNN Network With BERT for Automatic COVID-19 Diagnosis From CT-Scan Images},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2021},
-    pages     = {439-445}
-    }
+      @InProceedings{Tan_2021_ICCV,
+      author    = {Tan, Weijun and Liu, Jingfeng},
+      title     = {A 3D CNN Network With BERT for Automatic COVID-19 Diagnosis From CT-Scan Images},
+      booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+      month     = {October},
+      year      = {2021},
+      pages     = {439-445}
+      }
    
 - This paper has 9 citations as of October 2022, including one paper in Nature.  
