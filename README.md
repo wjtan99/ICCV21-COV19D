@@ -34,4 +34,4 @@ The code of 3D-CNN-BERT-COVID19 is released under the MIT License. There is no l
       pages     = {439-445}
       }
    
-- This paper has 9 citations as of October 2022, including one paper in Nature Scientific Reports.  
+- This paper has 11 citations as of December 2022, including one paper in Nature Scientific Reports.  
