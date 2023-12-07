@@ -34,4 +34,4 @@ The code of 3D-CNN-BERT-COVID19 is released under the MIT License. There is no l
       pages     = {439-445}
       }
    
-- This paper has 11 citations as of December 2022, including one paper in Nature Scientific Reports.  
+- [This paper has 20 citations as of December 2023. See google scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C6&q=A+3D+CNN+Network+With+BERT+for+Automatic+COVID-19+Diagnosis+From+CT-Scan+Images&btnG=)
